@@ -580,7 +580,7 @@ button:hover{
     margin: 2rem 36rem;
     border-radius: 2rem;
     width: 18.5rem;
-    height: 37rem;
+    height: 39rem;
     transform: rotateX(180deg);
 }
 .flip-card2 {
@@ -615,7 +615,7 @@ button:hover{
   margin: 2rem 25rem;
   border-radius: 2rem;
   width: 18rem;
-  height: 42rem;
+  height: 44rem;
   /* -webkit-backface-visibility: hidden; Safari */
   backface-visibility: hidden;
 }
