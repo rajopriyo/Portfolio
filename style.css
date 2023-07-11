@@ -865,6 +865,9 @@ span{
 	font-size:  40px; 
 	text-align:center;
 }
+{
+	text-align:center;
+}
 
 
 /* Responsiveness */
@@ -1069,6 +1072,30 @@ article
 .foot
 {
 	text-align:left;
+	margin-left:2.5rem;
+}
+.row2
+{
+	margin-left:0;
+}
+		
+.row4
+{
+	margin-left:0;
+}
+.row5
+{
+	margin-left:5.5rem;
+}
+		
+.row1
+{
+	margin-left:5.5rem;
+}
+			
+.foot_social_media
+{
+	display:none;		
 }
 }
 
