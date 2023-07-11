@@ -859,6 +859,12 @@ span{
   font-size: 40px;  
   margin: 2rem 25rem;
 }
+.connect_head
+{
+	color:navy; 
+	font-size:  40px; 
+	text-align:center;
+}
 
 
 /* Responsiveness */
@@ -1028,23 +1034,26 @@ article
 {
   display: block;
 }
-
+.connect_head
+	{
+		text-align:left;
+	}
 .contact_icon
 {
-   margin-left:0;
+   margin-left:2rem;
 }
 .contact_details
 {
-    margin-left:0;
+    margin-left:2rem;
 }
 
 .contact_head
 {
-  margin-left: 0;
+  margin-left: 4rem;
 }
 .social_media{
 
-    margin: 0rem 1rem;
+    margin:5rem 0;
  
 }
 .Contact
