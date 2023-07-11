@@ -879,7 +879,7 @@ ul a:hover {
 }
 .hello
 {
-    margin-left:2rem;
+    margin-left:0;
 }
 .my_skill
 {
@@ -892,8 +892,8 @@ ul a:hover {
 }
 .heading
 {
-    text-align:right;
-    margin:3rem 45rem;
+    text-align:center;
+    margin:3rem 5rem;
 }
 nav
 {
@@ -977,15 +977,15 @@ nav
 }
 .box1
 {
-    margin: 5rem 14rem;
+    margin: 5rem 17rem;
 }
 .box2
 {
-    margin: 5rem 15rem;
+    margin: 5rem 18rem;
 }
 footer
 {
-    width: 225%;
+    width: 402%;
     padding-bottom: 0 0;
     margin-bottom: 0 0;
     
