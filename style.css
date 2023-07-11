@@ -902,13 +902,13 @@ span{
     margin: 0 50rem;
 }
 .profile_mobile
-/* {
-/*   display: block; */
-/*   margin-left:1rem; */ */
-}
-.profile_box
 {
   display: block;
+  margin-left:1rem; 
+ }
+.profile_box
+{
+  display: none;
 }
 .profile
 {
