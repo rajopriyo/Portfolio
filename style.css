@@ -957,7 +957,7 @@ nav
 #slideset1 > *
 {
        
-        margin: 42em 8rem;
+        margin: 32em 8rem;
 }
 #education
 {
@@ -1039,7 +1039,7 @@ article
 }
 .connect_head
 	{
-		text-align:left;
+		margin:0 2rem;
 	}
 .contact_icon
 {
@@ -1062,7 +1062,7 @@ article
 }
 .Contact
 	{
-		height:102rem
+		height:98rem
 	}
 
 .contact_section
