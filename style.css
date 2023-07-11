@@ -911,7 +911,7 @@ span{
 }
 .hello
 {
-    margin-left:8rem;
+    margin-left:5rem;
 }
 .my_skill
 {
@@ -948,7 +948,7 @@ nav
 #slideset1 > *
 {
        
-        margin: 42em 5rem;
+        margin: 42em 8rem;
 }
 #education
 {
@@ -972,38 +972,38 @@ nav
 
 .flip-card-front
 {
-    margin: 4rem 35rem;
+    margin: 4rem 30rem;
     width: 20rem;
     height: 32rem;
 }
 .flip-card-back
 {
-        margin: 4rem 35rem;
+        margin: 4rem 30rem;
     width: 20rem;
     height: 32rem;
 }
 .flip-card-front1
 {
-    margin: 1rem 35rem;
+    margin: 4rem 30rem;
     width: 20rem;
     height: 32rem;
 }
 .flip-card-back1
 {
-    margin: 1rem 35rem;
+    margin: 4rem 30rem;
     width: 20rem;
     height: 32rem;
 }
 
 .flip-card-front2
 {
-    margin: 1rem 36rem;
+    margin: 1rem 31rem;
     width: 20rem;
     height: 42rem;
 }
 .flip-card-back2
 {
-    margin: 1rem 36rem;
+    margin: 1rem 31rem;
     width: 20rem;
     height: 42rem;
 }
@@ -1031,16 +1031,16 @@ article
 
 .contact_icon
 {
-   margin-left: 2rem;
+   margin-left:0;
 }
 .contact_details
 {
-    margin-left: 2rem;
+    margin-left:0;
 }
 
 .contact_head
 {
-  margin-left: 2rem;
+  margin-left: 0;
 }
 
 /*  */
