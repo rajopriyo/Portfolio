@@ -61,7 +61,7 @@ ScrollReveal().reveal("#education", {
 // }
 // // {}
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzMcg86d9cWsKWgJMH0niJky3rZmHWd4wvnLsOYPmWufr-wHYfT8LFKau2rj7XYW9W6/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbwWGrGceIHpx45W9Zn0TJFqKkpJP99moDmWCRMBBC69UHjuEV6LOvv5cVulb7OXA5U3/exec'
 const form = document.forms['submit-to-google-sheet']
 const msg= document.getElementById("msg")
 
