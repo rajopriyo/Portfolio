@@ -569,7 +569,7 @@ button:hover{
 {
     background-image: url("education_background.jpg");
     /* background-color: blue; */
-    margin: 2rem 50rem;
+    margin: 2rem 55rem;
     border-radius: 2rem;
     width: 18.5rem;
     height: 80rem;
@@ -577,7 +577,7 @@ button:hover{
 .flip-card-back2
 {
     background-image: url("education_background.jpg");
-    margin: 2rem 50rem;
+    margin: 2rem 55rem;
     border-radius: 2rem;
     width: 18.5rem;
     height: 37rem;
